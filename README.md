@@ -1,6 +1,6 @@
 ![banner](fastlane/metadata/android/en-US/images/featureGraphic.png)
 
-# mpvExtended
+# mpvExtended/添加中文翻译
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/marlboro-advance/mpvex.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/marlboro-advance/mpvex/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/marlboro-advance/mpvex/total?logo=github&cacheSeconds=3600)](https://github.com/marlboro-advance/mpvex/releases/latest)
 
@@ -26,28 +26,3 @@ features.**
 - Search Functionality
 - SMB/FTP/WebDAV support
 - Custom Playlist management support
-
-**This project is still in development and is expected to have bugs. Please report any bugs you find in
-the [Issues](https://github.com/marlboro-advance/mpvEx/issues) section.**
-
----
-
-## Installation
-
-### Stable Release
-Download the latest stable version from the [GitHub releases page](https://github.com/marlboro-advance/mpvEx/releases).
-
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/marlboro-advance/mpvEx/releases)
-
-Or you can get the stable releases here
-
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroidButtonGreyBorder_nofont.png" height="50" alt="Get it at IzzyOnDroid">](https://apt.izzysoft.de/packages/app.marlboroadvance.mpvex)
-
-### Preview Builds
-For testing purposes only
-
-[![Download Preview Builds](https://img.shields.io/badge/Download-Preview%20Builds-red?style=for-the-badge)](https://marlboro-advance.github.io/mpvEx/)
-
----
-
-添加中文翻译
